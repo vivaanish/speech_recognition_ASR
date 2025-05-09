@@ -1,6 +1,3 @@
-
-✅ Personalized README.md (for GitHub)
-
 # 🎙️ Speech-to-Text Transcription using Python
 
 I built this simple script to convert `.wav` audio files into text using Python’s `speech_recognition` library and Google’s Web Speech API.
