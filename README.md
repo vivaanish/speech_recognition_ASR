@@ -1,6 +1,3 @@
-Certainly. Here’s a personalized version of the README.md that you can post from your side, written in the first person to reflect your own contribution:
-
-⸻
 
 ✅ Personalized README.md (for GitHub)
 
